@@ -1,0 +1,15 @@
+{
+  "frameCount": 204,
+  "format": "webp",
+  "desktop": {
+    "width": 1920,
+    "height": 1080,
+    "dir": "desktop/"
+  },
+  "mobile": {
+    "width": 960,
+    "height": 540,
+    "dir": "mobile/"
+  },
+  "fps": 24
+}
